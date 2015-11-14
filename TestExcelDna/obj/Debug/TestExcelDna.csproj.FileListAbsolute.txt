@@ -1,0 +1,11 @@
+C:\Download\lab\mvs2010\TestExcelDna\TestExcelDna\bin\Debug\TestExcelDna.dll
+C:\Download\lab\mvs2010\TestExcelDna\TestExcelDna\bin\Debug\TestExcelDna.pdb
+C:\Download\lab\mvs2010\TestExcelDna\TestExcelDna\obj\Debug\TestExcelDna.dll
+C:\Download\lab\mvs2010\TestExcelDna\TestExcelDna\obj\Debug\TestExcelDna.pdb
+C:\Download\lab\mvs2010\TestExcelDna\TestExcelDna\bin\Debug\ExcelDna.Integration.dll
+C:\Download\lab\mvs2010\TestExcelDna\TestExcelDna\obj\Debug\TestExcelDna.csprojResolveAssemblyReference.cache
+C:\Download\lab\mvs2010\TestExcelDna\TestExcelDna\bin\Debug\FirstAddIn.dna
+C:\Download\lab\mvs2010\TestExcelDna\TestExcelDna\bin\Debug\FirstAddIn.xll
+C:\Download\lab\mvs2010\TestExcelDna\TestExcelDna\bin\Debug\TestWinForm.dll
+C:\Download\lab\mvs2010\TestExcelDna\TestExcelDna\bin\Debug\TestWinForm.pdb
+C:\Download\lab\mvs2010\TestExcelDna\TestExcelDna\bin\Debug\FirstAddIn.xll.config

@@ -1,0 +1,5 @@
+C:\Download\lab\mvs2010\TestExcelDna\TestWinForm\bin\Debug\TestWinForm.dll
+C:\Download\lab\mvs2010\TestExcelDna\TestWinForm\bin\Debug\TestWinForm.pdb
+C:\Download\lab\mvs2010\TestExcelDna\TestWinForm\obj\Debug\TestWinForm.dll
+C:\Download\lab\mvs2010\TestExcelDna\TestWinForm\obj\Debug\TestWinForm.pdb
+C:\Download\lab\mvs2010\TestExcelDna\TestWinForm\obj\Debug\TestWinForm.csprojResolveAssemblyReference.cache
